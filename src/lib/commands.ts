@@ -1,6 +1,6 @@
 import { Prompt } from "../types";
 
-export const MOTD = `🎉 Welcome!!! 🎉
+export const MOTD = `🎉 Hello Guys!!! 🎉
 
 🌐 GitHub: &nbsp;&nbsp;<a style="cursor:pointer" href="https://github.com/Sann0311" target="_blank" rel="noopener noreferrer">https://github.com/Sann0311</a>
 💼 LinkedIn: <a style="cursor:pointer" href="https://www.linkedin.com/in/saniyb/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/saniyb/</a>
