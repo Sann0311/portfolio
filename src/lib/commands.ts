@@ -6,7 +6,7 @@ export const MOTD = `🎉 Hello! 🎉
 💼 LinkedIn: <a style="cursor:pointer" href="https://www.linkedin.com/in/saniyb/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/saniyb/</a>
 
 Hello, I'm <b>Saniya Bhaladhare</b> 👋, a Master's student at the <b>University of Washington</b> 🎓 majoring in <b>Cybersecurity Engineering</b> 🛡️.  
-I specialize in cloud security ☁️, penetration testing 🔍, and regulatory compliance ✅.  
+I specialize in regulatory compliance ✅.  
 I am passionate about building secure systems 🔒 and tackling complex security challenges 🛠️.  
 
 💡 Type 'help' to see the available commands and explore further! 🚀`.replace(
@@ -91,11 +91,19 @@ const COMMANDS: Record<
   kali: () => KALI_LOGO,
   whoami: (username) => username,
   about: (username) => `Hello, ${username}!
-    Hi there! 👋 I'm Saniya Bhaladhare, passionate about cybersecurity 🛡️. I specialize in security ☁️, penetration testing 🔍, vulnerability assessments 🛠️, and ensuring compliance with industry standards ✅. My journey in cybersecurity began with a strong foundation in secure system design 🔒 and real-world threat mitigation. I completed my Bachelor's degree in Cybersecurity 🎓, where I gained a deep understanding of cybersecurity principles and hands-on technical expertise.
+    Hi there! I'm Saniya Bhaladhare, passionate about cybersecurity. I specialize in Cybersecurity professional with 1.5+ years of experience in security assessments, designing and implementing information security programs, frameworks, policies, procedures, managing incident response and collaborating with cross-functional teams to implement security controls and solutions. 
 
-    My focus is on leveraging leading tools and technologies, including AWS ☁️, Python 🐍, and Bash scripting 💻, to create robust security solutions. With hands-on experience using tools like Wireshark 🌐, Nmap 📡, Metasploit 🚀, and Burp Suite 🔧, I bring a versatile skill set to every challenge.
-
-    I am also ranked in the top 1% on TryHackMe 🏆, highlighting my expertise and commitment to continuous learning 📘. Additionally, I take pride in my contributions to cybersecurity projects and competitions 🏅, including leading dark web threat analysis initiatives 🕵️ and developing automated security tools 🤖, showcasing my ability to tackle complex security challenges.
+    I am currently seeking a internship opportunity to utilize my skills in helping organizations identify and address potential security risks.
+    
+    Technical Skills: 
+    - Security Management: Security assessments, Risk Management, Incident Response, Threat Intelligence, Security strategy and governance, Cybersecurity frameworks, Access management, Security Audit, Reporting
+    - Application Security: OWASP Top 10, WAF
+    - Ethical Hacking & Penetration Testing: PowerShell, Nmap, Wireshark
+    - Operating Systems: Windows, Linux, Kali, Virtualization
+    - Programming Languages: Python
+    - Tools: SIEM, Firewall, IPS, Proxy, Data Leak Prevention (DLP), Anti-Virus, Endpoint detection and Response (EDR) and Sandboxing
+    
+    Soft Skills: Critical Thinking, Research, Decision Making, Security Awareness and Documentation
   `,
   resume: () =>
     openLink(
