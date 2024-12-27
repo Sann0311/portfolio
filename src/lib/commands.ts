@@ -90,8 +90,8 @@ const COMMANDS: Record<
 > = {
   kali: () => KALI_LOGO,
   whoami: (username) => username,
-  about: (username) => `Hello, ${username}!
-    Hi there! I'm Saniya Bhaladhare, passionate about cybersecurity. I specialize in Cybersecurity professional with 1.5+ years of experience in security assessments, designing and implementing information security programs, frameworks, policies, procedures, managing incident response and collaborating with cross-functional teams to implement security controls and solutions. 
+  about: (username) => `Hello, I am ${username}!
+    I am a Cybersecurity professional with 1.5+ years of experience in security assessments, designing and implementing information security programs, frameworks, policies, procedures, managing incident response and collaborating with cross-functional teams to implement security controls and solutions. 
 
     I am currently seeking a internship opportunity to utilize my skills in helping organizations identify and address potential security risks.
     
