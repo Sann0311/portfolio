@@ -107,7 +107,7 @@ const COMMANDS: Record<
   `,
   resume: () =>
     openLink(
-      "https://docs.google.com/document/d/148G_ppPp07Qrjum0onkw0GNrj_HM2QP6qJnT7VR6vac/edit?usp=sharing"
+      "https://docs.google.com/document/d/1r3TdAvivzUD0Pamw4-6yRzNK58eSH1AWLLdR-GMMRRg/edit?usp=sharing"
     ),
   skills: () => `
 <b>Technical Skills:</b> Security Protocols, Network Security, Cloud Security, Vulnerability Assessment and Penetration Testing (VAPT), Cybersecurity, Azure, Amazon Web Services (AWS), Python Programming, Risk Assessment and Mitigation, Cybersecurity Governance and Compliance, Linux, Cybersecurity Tools, Docker, Kubernetes, Applied Cryptography, Bash Scripting, Information Security.
