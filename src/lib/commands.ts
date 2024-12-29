@@ -6,8 +6,7 @@ export const MOTD = `🎉 Hello! 🎉
 💼 LinkedIn: <a style="cursor:pointer" href="https://www.linkedin.com/in/saniyb/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/saniyb/</a>
 
 Hello, I'm <b>Saniya Bhaladhare</b> 👋, a Master's student at the <b>University of Washington</b> 🎓 majoring in <b>Cybersecurity Engineering</b> 🛡️.  
-I specialize in designing and implementing information security programs, frameworks, policies, procedures and regulatory compliance ✅.  
-I am passionate about building secure systems 🔒 and tackling complex security challenges 🛠️.  
+I specialize in designing and implementing information security programs, frameworks, policies, procedures and regulatory compliance ✅. I thrive on solving complex problems, combining technical expertise with innovative approaches to ensure secure and efficient systems🔒. 
 
 💡 Type 'help' to see the available commands and explore further! 🚀`.replace(
   /\n/g,
